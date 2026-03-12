@@ -1,4 +1,5 @@
-import React from "react";
+import "./ImcTable.css";
+
 import Button from "./button";
 
 const ImcTable = ({ data }) => {
